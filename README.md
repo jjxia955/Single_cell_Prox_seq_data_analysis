@@ -8,3 +8,6 @@ See https://github.com/tay-lab/Prox-seq_computation
 
 # For introduction to Prox-seq
 visit https://github.com/tay-lab/Prox-seq
+
+# Data availability 
+The tutorial is based on pbmc dataset from 10x pipeline. PLA dataset is uploaded and RNA data can be found in NCBI’s Gene Expression Omnibus under accession numbers GSE149574.
